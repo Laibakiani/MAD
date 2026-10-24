@@ -1,4 +1,4 @@
-//product  
+// product card  
 import React from 'react';
 import {
   View,
