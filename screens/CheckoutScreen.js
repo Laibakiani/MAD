@@ -1,4 +1,4 @@
-//mad
+//mad project
 import React from 'react';
 import {
   View,
