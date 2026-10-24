@@ -1,4 +1,5 @@
-// Laiba
+
+ // Laiba
 import React from 'react';
 import {
   View,
@@ -11,6 +12,7 @@ import {
 } from 'react-native';
 
 import { useShop } from '../context/ShopContext';
+
 
 const COLORS = {
   background: '#EDD9BE',
